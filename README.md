@@ -1,14 +1,16 @@
-# gozeropprof
+# github.com/randolphcyg/gozeropprof
 
 > gozeropprof is a tool used to integrate pprof into go-zero and analyze the running performance of go-zero projects.
 
 ## 1. Install
 
 ```shell
-go get "github.com/RandolphCYG/gozeropprof"
+go get "github.com/randolphcyg/gozeropprof"
 ```
 
 ## 2. Usage
+
+Register pprof agent at the gozero project entry method：
 
 ```go
 package main

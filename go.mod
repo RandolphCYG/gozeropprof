@@ -1,4 +1,4 @@
-module github.com/RandolphCYG/gozeropprof
+module github.com/randolphcyg/gozeropprof
 
 go 1.17
 
